@@ -12,4 +12,4 @@ Rootu 7 aldım. Sağ tarafında büyük sayılar, sol tarafında küçük sayıl
        / \   /    
       0   2  4
            \
-            3              şeklinde oluşturulur.
+            3               şeklinde oluşturulur.
